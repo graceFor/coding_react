@@ -68,3 +68,21 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Summery
+
+1. 개발환경 설정
+
+   "npx create-react-server [name]"
+
+2. 앱 실행
+
+   "npm start"
+
+3. 배포
+
+   "npm run build"
+
+4. 배포된 앱 실행
+
+   "npx serve -s build"
